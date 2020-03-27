@@ -1,0 +1,7 @@
+Como abrir
+Entre na pasta wd5 no VsCode (ou até mesmo no prompt) e execute npm run dev, após isso
+abra o localhost:3000 no seu navegador.
+
+English
+How to open
+Enter in wd5 folder and execute npm run dev on cmd or VSCode, open localhost:3000 in the browser
